@@ -1,5 +1,5 @@
 # Resumo do projeto
-Projeto do Curso de Desenvolvimento WEB - Udemy.
+Criação de uma página para contato com a modelo Anna Bella.
 
 ## 🔨 Funcionalidades do projeto
 Demonstrativo do site de uma modelo fictícia chamada Anna Bella.
