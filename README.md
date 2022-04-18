@@ -1,13 +1,19 @@
-# Resumo do projeto
+### 📚 Sobre
+
 Criação de uma página para contato com a modelo Anna Bella.
 
-## 🔨 Funcionalidades do projeto
+### 🎨 Detalhe
+
 Demonstrativo do site de uma modelo fictícia chamada Anna Bella.
 
 O site pode ser navegado entre as páginas Home, Biografia, Campanhas Publicitárias e Contato.
 
-## ✔️ Técnicas e tecnologias utilizadas
+<hr>
 
-- ``HMTL``
-- ``CSS3``
-- ``Sublime Text``
+### 💻 Tecnologias utilizadas
+
+Neste site foram utilizado as seguintes tecnologias
+
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [Sublime Text](https://www.sublimetext.com/)
